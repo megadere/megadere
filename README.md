@@ -1,4 +1,4 @@
-## Hi there 👋
+## jh
 
 <!--
 **megadere/megadere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmegadere&count_bg=%2395A5EB&title_bg=%2309B1CF&icon=&icon_color=%23B6B5B5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppsh64)](https://solved.ac/ppsh64/)
